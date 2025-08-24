@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rao Umer Abdul Rehman</h1>
 <h3 align="center">Software Engineering Student | CSS • HTML | Learning DSA & Web Development</h3>
 
-<img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoumerabdulrehman&label=Profile%20views&color=0e75b6&style=flat" alt="raoumerabdulrehman" /> </p>
 
 - 🔭 I’m currently working on [Portfolio](file:///C:/Users/raoum/OneDrive/Desktop/Project%201/clyde-master/clyde-master/index.html)
