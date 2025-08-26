@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rao Umer Abdul Rehman</h1>
 <h3 align="center">Software Engineering Student | CSS • HTML | Learning DSA & Web Development</h3>
 
-![logo](https://github.com/RaoUmerAbdulRehman/RaoUmerAbdulRehman/blob/main/umer.jpg)
-
 - 🔭 I’m currently working on [Portfolio](file:///C:/Users/raoum/OneDrive/Desktop/Project%201/clyde-master/clyde-master/index.html)
 
 - 🌱 I’m currently learning **BS Softwear Engineering**
